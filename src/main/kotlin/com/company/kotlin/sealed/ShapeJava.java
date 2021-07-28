@@ -18,6 +18,6 @@ class Sample{
     }
 
     void testFunction(ShapeJava shapeJava){
-        System.out.println("Testing");
+        System.out.println("Testing " + shapeJava);
     }
 }
