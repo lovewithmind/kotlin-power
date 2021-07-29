@@ -13,9 +13,9 @@ fun main() {
     println()
 
     //Java version
-    val sample = Sample()
-    sample.callingFunction()
-    sample.testFunction(ShapeJava.Rectangle)
+//    val sample = Sample()
+//    sample.callingFunction()
+//    sample.testFunction(ShapeJava.Rectangle)
 
     println()
 
