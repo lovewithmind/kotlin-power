@@ -23,7 +23,7 @@ public class JavaGenerics {
 }
 
 class GenericJavaClass<T> {
-    private T state;
+    private final T state;
 
     public GenericJavaClass(T state) {
         this.state = state;
